@@ -1,4 +1,4 @@
-# VMware Explore 2022 Assets
+# VMware Explore 2022 Assets from Redis Presentations
 
 These are the assets I referenced during my VMware Explore presentations. Please reach out if you have quetions.
 
