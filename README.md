@@ -13,10 +13,11 @@ These are the assets I referenced during my VMware Explore presentations. Please
 * [Redis Developer](https://developer.redis.com/)
 * [Redis Enterprise Kubernetes Operator](https://github.com/RedisLabs/redis-enterprise-k8s-docs)
 * [Redis Data Structures](https://redis.io/topics/data-types-intro)
-* [RedisConnect](https://github.com/RedisLabs-Field-Engineering/RedisCDC)
+* [Redis Connect / Redis CDC](https://github.com/RedisLabs-Field-Engineering/RedisCDC)
 
 ## Contact Info
 
 [André Srinivasan](https://linkedin.com/in/andresrinivasan)
 
-andre@redis.com
+[andre@redis.com](mailto:andre@redis.com)<br>
+[@andresrinivasan](https://twitter.com/andresrinivasan)
