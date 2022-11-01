@@ -5,6 +5,7 @@ These are the assets I referenced during my VMware Explore presentations. Please
 ## Presentations
 
 * [CNAB2322US - Build, Run and Manage Geo-Distributed Modern Apps with Redis and VMware Tanzu](./CNAB2322US_Srinivasan_FINAL_0722.pdf)
+  * [Recording](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=16530011068830016kU8&videoId=6311698826112)
 * [DOS3072USS - Redis & VMware: Leverage Redis Enterprise real-time scale with VMware Tanzu](./20220729-1%20Redis%20Sponsor%20Session%20VMware%20Explore.pdf)
 
 ## Demo
